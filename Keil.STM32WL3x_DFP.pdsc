@@ -13,11 +13,8 @@
   </licenseSets>
 
   <releases>
-    <release version="1.2.0-dev">
+    <release version="1.2.1-dev">
       Active development ...
-      Updated SVD files
-      Package Description (pdsc):
-      - Added support for STM32WL33CCV/KCV/CBV/KBV/C8V/K8Vxx and STM32WL3Rxx devices
     </release>
   </releases>
 
